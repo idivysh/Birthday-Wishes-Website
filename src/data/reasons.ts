@@ -1,0 +1,25 @@
+// ✏️ EDIT HERE: 21 reasons. `short` shows on the tile, `full` appears when tapped.
+export const reasonsHeading = "21 Reasons Why You're Special";
+export const reasons = [
+  { short: "Your smile", full: "Because your smile makes every situation better, even the ones I mess up." },
+  { short: "Okay-maker", full: "Because you always have a way of making things feel okay." },
+  { short: "Quiet strength", full: "Because you're strong even when things aren't easy, and you rarely show it." },
+  { short: "Built-in bestie", full: "Because you're my built-in best friend. No signup needed." },
+  { short: "Life's better", full: "Because life is simply better with you around." },
+  { short: "Advice desk", full: "Because you give advice before I even finish my sentence. Annoying, but usually right." },
+  { short: "Food diplomat", full: "Because you will say 'just one bite' and somehow finish my plate." },
+  { short: "Always there", full: "Because whenever I needed someone, you were already there." },
+  { short: "Bangaram", full: "Because you are literally my bangaram. Pure gold, no filter." },
+  { short: "Your laugh", full: "Because your laugh is loud, contagious, and honestly the best sound at home." },
+  { short: "Heart of gold", full: "Because you care about people more than you let on." },
+  { short: "Brave", full: "Because you try new things even when you're nervous. I notice, and I'm proud." },
+  { short: "Drama queen", full: "Because even your drama is entertaining. Cinema-level, 10/10." },
+  { short: "Secret keeper", full: "Because you keep my secrets safe (and I know a few of yours too 😉)." },
+  { short: "Protector", full: "Because you act like my protector, even when I'm the one who's supposed to look out for you." },
+  { short: "Dream big", full: "Because you've got big dreams, and I truly believe in every one of them." },
+  { short: "Scolding queen", full: "Because even your scoldings come from love. Eventually I figured that out." },
+  { short: "Home", full: "Because with you, even a boring day at home feels like a celebration." },
+  { short: "Kind soul", full: "Because you are kind without expecting anything back. Chala goppa manasu." },
+  { short: "My first friend", full: "Because you were my first friend, my first teacher, and my first fight partner." },
+  { short: "You, simply", full: "Because you're you, and I wouldn't change a single thing. Okay, maybe the remote hogging." },
+];
